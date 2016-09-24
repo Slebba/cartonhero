@@ -1,0 +1,86 @@
+html, body {
+	font-family: helvetica, sans-serif;
+	margin: 0;
+}
+header{
+	background-color: #ff9966;
+	padding: 80px 40px 40px 40px;
+	text-align: center
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+	font-style: sans-serif;
+}
+
+h2{
+	margin-top: 40px;
+	color: #ff9966;
+}
+
+p{
+	color: #404040;
+}
+
+li{
+	color: #404040;
+}
+
+header img{
+	border-radius: 300px;
+	/*border: 20px solid #fff;*/
+}
+
+.content {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+}
+img.big-image {
+	width:600px; 
+
+}
+
+p.caption{
+	font-size: 14px;
+	color: #a6a6a6;
+
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+}
+
+a{
+	color: lightblue;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+footer{
+	margin-top: 60px;
+	padding: 40px 20px;
+	background-color: #ff9966;
+	color: white;
+
+}
+
+footer ul{
+	text-align:center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 12px;
+}
+
+/*<header>
+	<img src="img/profile.jpg">
+	<h1>Carton Chris</h1>
+</header>
